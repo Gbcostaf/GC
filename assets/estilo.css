@@ -1259,7 +1259,7 @@ footer{
   height: auto;
 }
 .box-contato {
-  height: auto!important;
+  height: 100vh!important;
   padding-bottom: 200px;
   display: flex;
   padding-top: 200px;

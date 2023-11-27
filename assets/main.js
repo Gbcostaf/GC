@@ -100,6 +100,7 @@ setInterval(slide, 4000);
     });
 });
 
+
   document.addEventListener("DOMContentLoaded", function () {
   var bolaAzul = document.querySelector('.bola-azul');
   var scrollBx = document.querySelector('.scroll-bx');
